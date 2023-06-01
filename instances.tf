@@ -19,5 +19,5 @@ resource "aws_instance" "nginx" {
 
 }
 
-## $env:AWS_ACCESS_KEY_ID="AKIA265AAB5F3FJ7ISNC"
-## $env:AWS_SECRET_ACCESS_KEY="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"
+## $env:AWS_ACCESS_KEY_ID=""
+## $env:AWS_SECRET_ACCESS_KEY=""
